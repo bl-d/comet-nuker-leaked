@@ -1,0 +1,32 @@
+{   
+    "Nuker Settings": {
+        "Bot Token": "",
+        "Guild to Wizz": 943675297138626561,
+        "Channel Names": [
+            "saint lol",
+            "snt#1500"
+        ],
+        "Role Names": [
+            "saint lol",
+            "snt#1500"
+        ]
+    },
+
+    "Webhook Settings": {
+        "Webhook Names": [
+            "saint lol",
+            "snt#1500"
+        ],
+        "Spam Messages": [
+            "@everyone olololollo",
+            "@everyone wtfdfdfddffdfd"
+        ],
+        "Spam Amount": 1500
+    },
+
+    "Safety Settings": {
+        "Whitelisted Users": [
+            892736570602455051
+        ]
+    }
+}
